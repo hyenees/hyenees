@@ -1,3 +1,5 @@
+<div align="center">
+  
 ## Front-end Developer
 
 ### 👩‍💻️ About me
@@ -7,10 +9,11 @@
 ### 💻 Skills
 HTML | CSS | Styled-compoents | JavaScript | ReactJS | Git 
 
-[![Notion Badge](https://img.shields.io/badge/-Resume-000000?style=flat-square&logo=Notion&logoColor=white&link=mailto:https://www.notion.so/Hyein-Son-7a163b4885134593acd1808bc8a341b3)](mailto:https://www.notion.so/Hyein-Son-7a163b4885134593acd1808bc8a341b3)
+[![Notion Badge](https://img.shields.io/badge/-Resume-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/Hyein-Son-7a163b4885134593acd1808bc8a341b3)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shl7683@gmail.com)](mailto:shl7683@gmail.com)
-[![Velog Badge](https://img.shields.io/badge/-Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=mailto:https://velog.io/@hyenees)](mailto:https://velog.io/@hyenees)
+[![Velog Badge](https://img.shields.io/badge/-Blog-20C997?style=flat-square&logo=Velog&logoColor=white&l)](https://velog.io/@hyenees)
 
+</div>
 <!--
 **hyenees/hyenees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
