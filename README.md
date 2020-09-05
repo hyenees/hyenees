@@ -1,9 +1,10 @@
 <div align="center">
   
-## <h3 align="center">Front-end Developer</h3>
+## Front-end Developer
 
 ### 👩‍💻️ About me
 안녕하세요🖐️ 프론트엔드 개발자 손혜인입니다.  
+</br>
 꼼꼼한 성격으로 완벽을 추구하고 디테일을 중요하게 여깁니다.  
 깔끔한 코드 작성을 위해 다양한 시도를 통해 개선하는 것을 좋아합니다.  
 새로운 기술을 끊임없이 공부하고 발전하려고 노력합니다.  
